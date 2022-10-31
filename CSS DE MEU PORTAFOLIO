@@ -1,0 +1,150 @@
+
+
+
+body{ color: yellow ; font-family: 'Acme', sans-serif; width: 100%;
+
+    background-image: url("http://www.solofondos.com/wp-content/uploads/2015/11/abstract-wallpapers_00038-1923dac.jpg");
+ background-size: cover;
+}
+
+.botonestitulo{margin-top: rem;marker-end: 2rem;
+    display: flex; }
+
+.botonestitulo a {text-decoration: none;
+    color: yellow ;
+    font-size: 20px;
+    padding: ;
+    border: 5px solid #f30c58;
+    min-width: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5 ease-in-out;
+    border-radius: 10%;
+
+}
+
+a:hover{
+    background-color: #f30c58;
+}
+
+.portafolio { display:flex; justify-content: end;width: 100%;
+ 
+   
+    font-size: 30px; 
+
+    height:10vh;  
+}
+
+.titulo1{display:block;color: #f30c58;font-size: 30px;
+  background-image: url("back.png");
+width: 100%;
+    height: 53%; 
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+    align-items: center;
+    justify-content: left;
+    padding-top: 100px;
+    padding-right: 30px;
+
+
+}
+
+.texto-titulo{ 
+  
+    letter-spacing: 5px;
+    text-align: ; font-family: 'Spicy Rice', cursive;
+    justify-content: center;
+    padding-top: 0px;color: #f30c58; 
+}
+
+
+.main{display: flex;
+    align-items: flex;
+    justify-content: left;
+    
+    
+
+}
+
+.sobremi{color: #f30c58;text-align: center;font-size: 35px;padding: 30px;
+
+}
+
+.contenido{font-size: 38px;text-decoration: none;
+
+} 
+
+.texto-formacion{font-size: 38px;color:yellow ;
+
+}
+
+
+
+.section{font-size: 50px;color: #f30c58 ;
+
+} 
+
+.tituloprojetos{
+   
+    text-align: center;
+font-size: 50px;color: #f30c58 ;
+
+}
+
+.formulario{ font-size: 35px; color: #f30c58;
+    
+}
+
+.footer{color: yellow ;
+    font-size: 20px;
+    padding: 
+    border: 5px solid yellow;
+    min-width: rem;
+
+    display: block;
+   
+    text-align: center;
+
+    transition: .5 ease-in-out;
+    
+   
+    width: 100%;
+} 
+
+.cards{display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: ;
+    padding: 30px;
+
+
+}
+
+.cards1{
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px yellow;
+    width: 150px; height:300px ;
+    text-align: center;padding: 30px;margin-right: 50px;
+
+}
+
+.cards2{border-radius: 20px;
+    box-shadow: 0px 2px 23px yellow;
+    width: 150px; height:300px ;
+    text-align: center;padding: 30px;
+}
+
+
+
+
+
+
+
+    
+
